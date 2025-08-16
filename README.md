@@ -14,7 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElColorin&show_icons=true&theme=dark&locale=en&layout=compact" alt="ElColorin" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ElColorin&show_icons=true&theme=dark&locale=en" alt="ElColorin" /></p>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
