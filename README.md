@@ -5,9 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -20,13 +17,13 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElColorin&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ElColorin&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ElColorin&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
