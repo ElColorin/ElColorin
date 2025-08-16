@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
-
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
@@ -28,13 +26,4 @@
 <a href="https://www.instagram.com/elcolorin.2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-
-
 ------
-
-
-
-
-
-
-
