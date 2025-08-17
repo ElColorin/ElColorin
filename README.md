@@ -9,7 +9,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/ElColorin/Adquisiciones-.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FL-MC&repo=PetsFound" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElColorin&repo=FL-MC" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Leckiam/FL-MC.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
