@@ -4,7 +4,7 @@
 
 <hr width="36%" >
 
-__Check out my GitHub repository:__
+__Mira mi repositorio de GitHub:__
 
 <div>
   <p>
