@@ -4,6 +4,19 @@
 
 <hr width="36%" >
 
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/ElColorin/Adquisiciones-.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Leckiam/FL-MC.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
 <h3>My GitHub Stats</h3>
 
 <br>
