@@ -12,7 +12,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leckiam&repo=FL-MC" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Leckiam/FL-MC.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElColorin&repo=Adquisiciones" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElColorin&repo=Adquisiciones-" alt="GitHub Stats" />
     </a>
   </p>
 </div>
