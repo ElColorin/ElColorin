@@ -14,6 +14,9 @@ __Mira mi repositorio de GitHub:__
     <a href="https://github.com/Leckiam/FL-MC.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElColorin&repo=Adquisiciones-" alt="GitHub Stats" />
     </a>
+      <a href="https://github.com/ElColorin/ProyectoCapstone.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElColorin&repo=ProyectoCapstone" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
